@@ -72,3 +72,11 @@ lgtvonline.lge.com
 (^|\.)treasuredata\.com$
 (^|\.)unity(|3d)\.com$
 (^|\.)unityads(|\.co)\.com$
+^adv\.sec\..+\.xiaomi.com$
+^.+\.ad\..+\.xiaomi\.com$
+^fr\.app\.chat\..+\.xiaomi\.net$
+^fr-app-chat-.+-xiaomi-net.+\.elb\.amazonaws\.com$
+^.+\.mistat\..+\.xiaomi\.com$
+^resolver\.msg\..+\.xiaomi.net$
+^sa\.api\..\.miui\.com$
+^tracking\..+\.miui.com$
